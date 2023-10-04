@@ -5,8 +5,7 @@
 ### Hi there 👋
 
 - My name is Tolulope😊
-- I am a biochem graduate interested in backend development 
-- I am currently learning react👀
+- I am currently learning Gsap👀
 - If you're looking to collaborate on projects or you have a question for me reach me at: liasutolulope@gmail.com
 
 
